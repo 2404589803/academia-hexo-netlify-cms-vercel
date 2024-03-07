@@ -8,7 +8,15 @@ academia: true
 
 # 开发项目（development projects）
 
+- 
+
+- 
+
 # 开源社区贡献（Open source community contribution）
+
+- 
+
+- 
 
 # 学术论文（Paper）
 
