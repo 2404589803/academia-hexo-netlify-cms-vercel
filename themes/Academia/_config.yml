@@ -12,6 +12,7 @@ since: 2024
 # 可以选择外链或其他页面
 menu:
   Publications: /publications
+  papers: /papers
 # flink picture will load if avator link calls on error
 loading_bg:
   flink: /img/profile.png
