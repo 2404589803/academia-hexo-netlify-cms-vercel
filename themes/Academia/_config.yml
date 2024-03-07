@@ -2,10 +2,10 @@ favicon: /img/favicon.png
 # Change to your profile picture
 avatar: /img/avatar.jpg
 # if author sets in hexo_config, this string doesn't work
-author: 'Jason'
-author_bio: 'Your biography can be writed down here.'
+author: 'junfeng-xiao'
+author_bio: 'My name is Xiao Junfeng, and I am a programmer. My research interests include: Machine Learning, Computer Vision, and Large Language Models.'
 
-since: 2020
+since: 2024
 
 # Top Menu 顶部菜单
 # #title 为页内跳转，单页模式
@@ -23,15 +23,15 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fab fa-twitter: /
-  fab fa-facebook-square: /
-  fab fa-github: /
+  fab fa-twitter: /https://twitter.com/jimt40395
+  fab fa-facebook-square: /https://www.facebook.com/profile.php?id=100095667727985
+  fab fa-github: /https://github.com/2404589803
   fab fa-stack-overflow: /
   fab fa-linkedin: /
   fab fa-weibo: /
   fab fa-weixin: /
   fab fa-qq: /
-  fas fa-envelope: / #E-mail
+  fas fa-envelope: /jimt40395@gmail.com 
   fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
