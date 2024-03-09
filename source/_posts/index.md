@@ -4,7 +4,7 @@ academia: true
 ---
 # 学习经历（learning experience）
 
-- 2022.09-2025.07 厦门南洋职业学院 专科
+- 2022.09-2025.07 厦门南洋学院 专科（2022.09-2025.07 Xiamen Nanyang College 【Junior College】）
 
 # 开发项目（development projects）
 
@@ -12,7 +12,7 @@ academia: true
 (GitHub地址：https://github.com/LC1332/Zero-Haruhi)
 
 - smooth-face-extract【多样化的从视频中提取人脸的工具，用作SD训练的辅助工具】
-(GitHub地址：https://github.com/LC1332/Zero-Haruhi)
+(GitHub地址：https://github.com/LC1332/smooth-face-extract)
 
 
 # 开源社区贡献（Open source community contribution）
