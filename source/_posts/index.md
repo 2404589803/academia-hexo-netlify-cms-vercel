@@ -8,9 +8,12 @@ academia: true
 
 # 开发项目（development projects）
 
-- 
+- Zero-Haruhi【Chat凉宫春日 Chat-Haruhi-Suzumiya】
+(GitHub地址：https://github.com/LC1332/Zero-Haruhi)
 
-- 
+- smooth-face-extract【多样化的从视频中提取人脸的工具，用作SD训练的辅助工具】
+(GitHub地址：https://github.com/LC1332/Zero-Haruhi)
+
 
 # 开源社区贡献（Open source community contribution）
 
