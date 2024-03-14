@@ -40,7 +40,7 @@ e_social_links:
 cv_dl:
   enable: true
   dir: /attaches/CV.pdf
-  description: My Detail CV.
+  description: junfeng-xiao CV.
 
 # Box-shadow
 # display box-shadow on page or not
