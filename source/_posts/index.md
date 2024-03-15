@@ -23,15 +23,19 @@ academia: true
 
 - 🤗 The Llama Hitchiking Guide to Local LLMs【hugging  face博客翻译】
 
-(GitHub地址:https://github.com/2404589803/translation/blob/main/hackerllama/2024-01-12-The%20Llama%20Hitchiking%20Guide%20to%20Local%20LLMs.qmd)
+(GitHub地址:https://github.com/2404589803/hf-blog-translation/blob/main/zh/2024-01-12-The%20Llama%20Hitchiking%20Guide%20to%20Local%20LLMs.qmd)
 
 - 🤗 Sentence Embeddings【hugging  face博客翻译】
 
-(GitHub地址：https://github.com/2404589803/translation/blob/main/hackerllama/2024-01-07-Sentence%20Embeddings.ipynb)
+(GitHub地址：https://github.com/2404589803/hf-blog-translation/blob/main/zh/2024-01-07-Sentence%20Embeddings.ipynb)
 
 - 🤗 leaderboard-contextual【hugging  face博客翻译】
 
-(GitHub地址：https://github.com/2404589803/translation/blob/main/leaderboard-contextual.md)
+(GitHub地址：https://github.com/2404589803/hf-blog-translation/blob/main/zh/leaderboard-contextual.md)
+
+- 🤗 websight【hugging  face博客翻译】
+
+(GitHub地址：https://github.com/2404589803/hf-blog-translation/blob/main/zh/websight.md)
 
 - 🐋Datawhale X 深势科技 教学赛 《机器学习流程 》贡献者  
 
