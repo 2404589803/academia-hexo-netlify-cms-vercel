@@ -4,7 +4,7 @@ academia: true
 ---
 # 学习经历（learning experience）
 
-- 2022.09-2025.07 厦门南洋学院 专科（2022.09-2025.07 Xiamen Nanyang College 【Junior College】）
+- 2022.09-2025.07 厦门南洋职业学院 专科（2022.09-2025.07 Xiamen Nanyang College 【Junior College】）
 
 # 开发项目（development projects）
 
@@ -49,4 +49,6 @@ academia: true
 
 # 实习经历（intern experience）
 
-- 2023.07-2023.09  上海未来元数软件开发有限公司  MathGPTPro项目 AI产品经理
+- 2023.07-2023.09  MetaDigits.AI/上海未来元数软件开发有限公司  MathGPTPro项目     AI产品经理(远程)
+
+- 2024.04-         Imaginix Inc./想象力科技有限公司           kimi.ai/Toonie.Al   Prompt Engineer
