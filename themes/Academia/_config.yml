@@ -33,7 +33,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: / || fas fa-graduation-cap
-  ORCID: https://orcid.org/0009-0001-9973-1959 || jim tom
+  ORCID: / || fab fa-orcid
 
 # CV download link
 cv_dl:
