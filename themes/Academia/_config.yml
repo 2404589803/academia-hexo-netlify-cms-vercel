@@ -33,7 +33,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: / || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
+  ORCID: https://orcid.org/my-orcid?orcid=0009-0001-9973-1959/ || fab fa-orcid
 
 # CV download link
 cv_dl:
