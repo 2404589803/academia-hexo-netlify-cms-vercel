@@ -51,4 +51,6 @@ academia: true
 
 - 2023.07-2023.09  MetaDigits.AI/上海未来元数软件开发有限公司  MathGPTPro项目     AI产品经理(远程)
 
-- 2024.04-         Imaginix Inc./想象力科技有限公司（South Ninth Street, San Jose, California, USA）           kimi.ai/Toonie.Al   Prompt Engineer（远程）
+- 2024.04-2024.05  Imaginix Inc./想象力科技有限公司（South Ninth Street, San Jose, California, USA）           kimi.ai/Toonie.Al   Prompt Engineer（远程）
+
+- 2024.05.13-  北京智谱华章（智谱AI）科技有限公司   内容编辑实习生
