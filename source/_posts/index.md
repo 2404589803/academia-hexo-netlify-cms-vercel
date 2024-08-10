@@ -2,11 +2,9 @@
 title: Index
 academia: true
 ---
-# 学习经历（learning experience）
-
-- 2022.09-2025.07 厦门南洋职业学院 专科（2022.09-2025.07 Xiamen Nanyang College 【Junior College】）
-
 # 开发项目（development projects）
+
+
 
 - Zero-Haruhi【Chat凉宫春日 Chat-Haruhi-Suzumiya】
 (GitHub地址：https://github.com/LC1332/Zero-Haruhi)
