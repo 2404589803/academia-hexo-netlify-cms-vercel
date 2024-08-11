@@ -38,7 +38,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: true
-  dir: /attaches/肖君枫-cv.pdf
+  dir: /attaches/junfeng xiao-cv.pdf
   description: junfeng-xiao CV.
 
 # Box-shadow
