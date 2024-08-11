@@ -46,4 +46,4 @@ academia: true
 
 - 2024.04-2024.05  Imaginix Inc./想象力科技有限公司（South Ninth Street, San Jose, California, USA）  kimi.ai/Toonie.Al   Prompt Engineer（远程）
 
-- 2024.05.13-  北京智谱华章（智谱AI）科技有限公司   内容编辑实习生
+- 2024.05.13- 2024.08.20 北京智谱华章（智谱AI）科技有限公司   内容编辑实习生
