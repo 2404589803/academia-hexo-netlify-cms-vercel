@@ -2,7 +2,7 @@
 title: Index
 academia: true
 ---
-# 开发项目（development projects）
+# development projects
 
 - Zero-Haruhi【Chat凉宫春日 Chat-Haruhi-Suzumiya】
 (GitHub地址：https://github.com/LC1332/Zero-Haruhi)
@@ -13,7 +13,7 @@ academia: true
 (GitHub地址：https://github.com/LC1332/smooth-face-extract)
 
 
-# 开源社区贡献（Open source community contribution）
+# Open source community contribution
 
 - 🤗hugging face Hub Python Library  中文翻译贡献者
 
@@ -40,7 +40,7 @@ academia: true
 (GitHub地址:https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md)
 
 
-# 实习经历（intern experience）
+# intern experience
 
 - 2023.07-2023.09  MetaDigits.AI/上海未来元数软件开发有限公司  MathGPTPro项目     AI产品经理(远程)
 
