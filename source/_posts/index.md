@@ -2,48 +2,50 @@
 title: Index
 academia: true
 ---
-# development projects
+Sure! Here's the translation of your content into English:
 
-- Zero-Haruhi【Chat凉宫春日 Chat-Haruhi-Suzumiya】
-(GitHub地址：https://github.com/LC1332/Zero-Haruhi)
+---
 
+# Development Projects
 
+- **Zero-Haruhi**【Chat Haruhi Suzumiya】
+  (GitHub repository: [https://github.com/LC1332/Zero-Haruhi](https://github.com/LC1332/Zero-Haruhi))
 
-- smooth-face-extract【多样化的从视频中提取人脸的工具，用作SD训练的辅助工具】
-(GitHub地址：https://github.com/LC1332/smooth-face-extract)
+- **smooth-face-extract**【A versatile tool for extracting faces from videos, used as an auxiliary tool for SD training】
+  (GitHub repository: [https://github.com/LC1332/smooth-face-extract](https://github.com/LC1332/smooth-face-extract))
 
+# Open Source Community Contributions
 
-# Open source community contribution
+- 🤗 **huggingface Hub Python Library** - Contributor to Chinese translation
+  (GitHub repository: [https://github.com/huggingface/huggingface_hub/pull/1916](https://github.com/huggingface/huggingface_hub/pull/1916))
 
-- 🤗hugging face Hub Python Library  中文翻译贡献者
+- 🤗 **The Llama Hitchhiking Guide to Local LLMs**【Translation of a Hugging Face blog post】
 
-(GitHub地址:https://github.com/huggingface/huggingface_hub/pull/1916)
+- 🤗 **Sentence Embeddings**【Translation of a Hugging Face blog post】
 
-- 🤗 The Llama Hitchiking Guide to Local LLMs【hugging  face博客翻译】
+- 🤗 **leaderboard-contextual**【Translation of a Hugging Face blog post】
 
-(GitHub地址:)
+- 🤗 **websight**【Translation of a Hugging Face blog post】
 
-- 🤗 Sentence Embeddings【hugging  face博客翻译】
+- 🐋 **Datawhale X DeepModeling Teaching Competition: "Machine Learning Workflow" Contributor**  
+  (GitHub repository: [https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md](https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md))
 
-(GitHub地址：)
+# Intern Experience
 
-- 🤗 leaderboard-contextual【hugging  face博客翻译】
+- **July 2023 - September 2023**  
+  **MetaDigits.AI / Shanghai Weilai Yuan Shu Software Development Co., Ltd.**  
+  **MathGPTPro Project**  
+  **AI Product Manager (Remote)**
 
-(GitHub地址：)
+- **April 2024 - May 2024**  
+  **Imaginix Inc. / Xiangxiangli Technology Co., Ltd. (South Ninth Street, San Jose, California, USA)**  
+  **kimi.ai / Toonie.AI**  
+  **Prompt Engineer (Remote)**
 
-- 🤗 websight【hugging  face博客翻译】
+- **May 13, 2024 - August 20, 2024**  
+  **Beijing Zhipu Huazhang (Zhipu AI) Technology Co., Ltd.**  
+  **Content Editor Intern**
 
-(GitHub地址：)
+--- 
 
-- 🐋Datawhale X 深势科技 教学赛 《机器学习流程 》贡献者  
-
-(GitHub地址:https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md)
-
-
-# intern experience
-
-- 2023.07-2023.09  MetaDigits.AI/上海未来元数软件开发有限公司  MathGPTPro项目     AI产品经理(远程)
-
-- 2024.04-2024.05  Imaginix Inc./想象力科技有限公司（South Ninth Street, San Jose, California, USA）  kimi.ai/Toonie.Al   Prompt Engineer（远程）
-
-- 2024.05.13- 2024.08.20 北京智谱华章（智谱AI）科技有限公司   内容编辑实习生
+Let me know if you need any further adjustments!
