@@ -42,6 +42,3 @@ academia: true
   **Beijing Zhipu Huazhang (Zhipu AI) Technology Co., Ltd.**  
   **Content Editor Intern**
 
---- 
-
-Let me know if you need any further adjustments!
