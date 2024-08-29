@@ -2,10 +2,6 @@
 title: Index
 academia: true
 ---
-Sure! Here's the translation of your content into English:
-
----
-
 # Development Projects
 
 - **Zero-Haruhi**【Chat Haruhi Suzumiya】
