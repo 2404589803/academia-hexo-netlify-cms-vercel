@@ -23,6 +23,7 @@ academia: true
 
 - 🤗 **websight**【Translation of a Hugging Face blog post】
 
+- 🤗 **fine-video**【Translation of a Hugging Face blog post】(GitHub repository: [https://github.com/huggingface-cn/hf-blog-translation/pull/140](https://github.com/huggingface-cn/hf-blog-translation/pull/140))
 - 🐋 **Datawhale X DeepModeling Teaching Competition: "Machine Learning Workflow" Contributor**  
   (GitHub repository: [https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md](https://github.com/2404589803/My-datawhale-learning/blob/main/docs/AI4S_CUP52/ch01.md))
 
